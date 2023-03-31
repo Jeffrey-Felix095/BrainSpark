@@ -1,0 +1,52 @@
+.layer2 {
+    background-image: url('../imagenes/Media.svg');
+    aspect-ratio: 960/540;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.carousel-item {
+    text-align: center;
+    width: 100%;
+}
+
+.layer3 {
+    background-image: url('../imagenes/Baja.svg');
+    aspect-ratio: 960/540;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+#card1 {
+    width: 100%;
+    background: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #ecebeb, 0px 0px 10px #ecebeb;
+}
+
+#img2 {
+    box-shadow: 0px 0px 5px #636363, 0px 0px 10px #636363, 0px 0px 10px #636363,
+        0px 0px 20px #636363;
+    border-radius: 10px;
+    border-width: medium;
+}
+
+.carrusel-texto {
+    font-family: 'Fasthand', cursive;
+    font-size: 25px;
+    padding-top: 5px;
+    width: 1080px;
+    padding-left: 30%;
+}
+.carrusel-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgb(33, 111, 226);
+    padding-top: 5px;
+}
